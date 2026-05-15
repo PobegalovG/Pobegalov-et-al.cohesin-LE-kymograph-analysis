@@ -25,7 +25,7 @@ conda install jupyter matplotlib scipy
 
 pip install tifffile
 
-The instalation process of Jupyter Notebook and necessary libraries requires ~15 minutes.
+Installation of Jupyter Notebook and necessary libraries requires ~15 minutes.
 
 # Start Jupyter Notebook:
 jupyter notebook
