@@ -1,7 +1,7 @@
 # Pobegalov-et-al.cohesin-LE-kymograph-analysis
-Scripts used to analyse the data in the manuscript by Pobegalov et al. "Symmetry and force response of cohesin loop extrusion are determined by diffusion of its motor and anchor domains"
+Scripts used to analyse the data in the manuscript by Pobegalov et al. "Symmetry and force response of cohesin loop extrusion are determined by diffusion of its motor and anchor domains".
 
-The analysis was performed on operating system MacOS Tahoe, version 26.4
+The analysis was performed on operating system MacOS Tahoe, version 26.4.
 
 To analyze cohesin LE dynamics without flow, images were first processed in Fiji ImageJ (2.16.0/1,54p). 
 Individual DNA molecules were selected using the "straight line" tool with line width = 12 pix. 
