@@ -33,7 +33,7 @@ jupyter notebook
 To run the script, put a copy of "LE_kymo_tiff.ipynb" Jupyter Notebook in the same folder as kymographs you wish to analyze, saved as .tiff files (example kymographs are provided)
 
 INPUTS: 
-1. set frame rate at which data were collected (2Hz default)
+1. set frame rate at which data were collected (2Hz default) "f = ..."
 2. select the kymograph you wish to analyze by changing "file_number = ..."
 3. select an area of the kymograph (in frames) without DNA loop to determine DNA ends position: "frames_DNA = [start, end]" 
 4. select an area of the kymograph (in frames) where loop extrusion occured: "frames_LE = [start,end]"
